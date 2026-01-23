@@ -155,13 +155,11 @@ Contributions are welcome! Feel free to:
 - Suggest new features
 - Submit pull requests
 
-Please read our [Contributing Guidelines](CONTRIBUTING.md) before submitting a PR.
-
 ---
 
 ## 📄 License
 
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+This project is open source. License information will be added soon.
 
 ---
 
@@ -169,8 +167,6 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 If you encounter any issues or have questions:
 - Open an [issue](https://github.com/ASRumon/Telephoto/issues)
-- Join our [Telegram community](#)
-- Check out the [Wiki](https://github.com/ASRumon/Telephoto/wiki)
 
 ---
 
