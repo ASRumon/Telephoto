@@ -57,7 +57,7 @@ This version is **rebuilt using Flutter & Dart**, offering better stability, smo
 </p>
 
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/d27c05f0-295c-4f63-a21e-0d1ebb5060c7b" width="250"/>
+ 
   <img src="https://github.com/user-attachments/assets/4f9bd5cc-1091-42d6-9aac-c2b7f9160c7b" width="250"/>
 </p>
 
