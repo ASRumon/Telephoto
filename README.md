@@ -5,7 +5,7 @@
 </p>
 
 <p align="center">
-  <b>A lightweight, open‑source alternative to Google Photos — powered by Telegram.</b>
+  <b>A lightweight, open-source alternative to Google Photos — powered by Telegram.</b>
 </p>
 
 <p align="center">
@@ -27,9 +27,11 @@
 
 ## 📸 What is Telephoto?
 
-**Telephoto** is a simple and privacy‑friendly Android app that backs up your photos to **Telegram** using a bot you control.
+**Telephoto** is a simple and privacy-friendly Android app that backs up your photos to **Telegram** using a bot you control.
 
 Instead of relying on traditional cloud providers, your images are sent directly to your own Telegram chat — giving you effectively unlimited storage, fast access, and full ownership of your data.
+
+Telephoto also includes **Optical OCR (Text Recognition)**, allowing the app to detect text inside images and help you quickly find photos using searchable text.
 
 This version is **rebuilt using Flutter & Dart**, offering better stability, smoother performance, and fewer bugs compared to earlier releases.
 
@@ -42,9 +44,14 @@ This version is **rebuilt using Flutter & Dart**, offering better stability, smo
 * 🤖 Uses your **Telegram bot & chat ID**
 * 📁 **Backup device storage with smart folder exclusion**
 * 🧠 **Smart sync** — uploads only new or missing photos
+* 🔍 **Optical OCR (Text Recognition)**
+
+  * Detects text inside images
+  * Allows searching images using recognized text
+  * Improves image discoverability and organization
 * 💾 Backup **app database & settings**
 * ⚡ Faster and more stable (Flutter + Dart)
-* 🪶 Lightweight and battery‑friendly
+* 🪶 Lightweight and battery-friendly
 
 ---
 
@@ -57,7 +64,6 @@ This version is **rebuilt using Flutter & Dart**, offering better stability, smo
 </p>
 
 <p align="center">
- 
   <img src="https://github.com/user-attachments/assets/4f9bd5cc-1091-42d6-9aac-c2b7f9160c7b" width="250"/>
 </p>
 
@@ -89,7 +95,7 @@ Settings > Apps > Telephoto > Permissions
 Enable "Files and media" or "Allow access to all files"
 ```
 
-Without storage access, the app cannot read or back up your photos.
+Without storage access, the app cannot read or back up your photos or perform OCR indexing.
 
 ---
 
@@ -113,7 +119,21 @@ You can choose between:
 * **Manual Backup** – Upload everything
 * **Sync Mode** – Upload only new or missing photos
 
-On first launch, allow some time for scanning and indexing.
+On first launch, allow some time for scanning, indexing, and OCR processing.
+
+---
+
+## 🔍 Searching Images with OCR
+
+Telephoto can automatically recognize text inside images.
+
+You can:
+
+* Search screenshots, documents, or photos containing text
+* Quickly find images using keywords from recognized text
+* Improve organization without manual tagging
+
+OCR processing happens locally and integrates with the app’s image search system.
 
 ---
 
@@ -131,7 +151,7 @@ On first launch, allow some time for scanning and indexing.
 
 Telephoto allows you to **back up and restore** important app data:
 
-* 📄 **Photo metadata database** (used for sync tracking)
+* 📄 **Photo metadata database** (used for sync tracking and OCR indexing)
 * ⚙️ **App settings & configuration**
 
 Backup files are stored in the **Downloads** folder on your device and can later be restored inside the app.
@@ -143,6 +163,7 @@ Backup files are stored in the **Downloads** folder on your device and can later
 * **Flutter**
 * **Dart**
 * Telegram Bot API
+* On-device OCR text recognition
 
 ---
 
@@ -155,3 +176,4 @@ MIT License
 <p align="center">
   🌐 <a href="https://info.asrumon.workers.dev/">Website</a> • 💬 <a href="https://t.me/Randomrumon">Telegram</a> • 📥 <a href="https://github.com/ASRumon/Telephoto/releases/latest">Download APK</a>
 </p>
+
