@@ -17,7 +17,7 @@
 </p>
 
 <p align="center">
-  🌐 <a href="https://info.asrumon.workers.dev/">Website</a> • 💬 <a href="https://t.me/Randomrumon">Telegram</a>
+  🌐 <a href="https://info.asrumon.workers.dev/telephoto">Website</a> • 💬 <a href="https://t.me/Randomrumon">Telegram</a>
 </p>
 
 ---
