@@ -60,7 +60,20 @@ Key capabilities include:
 <p align="center">
   <img src="https://pub-0548ab57b95d46879446457637ed6426.r2.dev/2026-02-10_1495890bytes_Screenshot_20260210_214849_Telephoto.png" width="250"/>
   <img src="https://pub-0548ab57b95d46879446457637ed6426.r2.dev/2026-02-10_936996bytes_Screenshot_20260210_214935_Telephoto.png" width="250"/>
+  <img src="https://pub-0548ab57b95d46879446457637ed6426.r2.dev/2026-02-10_2717783bytes_Screenshot_20260210_214840_Telephoto.png" width="250"/>
 </p>
+
+<p align="center">
+  <img src="https://pub-0548ab57b95d46879446457637ed6426.r2.dev/2026-02-10_180130bytes_Screenshot_20260210_214724_Telephoto.png" width="250"/>
+  <img src="https://pub-0548ab57b95d46879446457637ed6426.r2.dev/2026-02-10_1409141bytes_Screenshot_20260210_214659_Telephoto.png" width="250"/>
+  <img src="https://pub-0548ab57b95d46879446457637ed6426.r2.dev/2026-02-10_152801bytes_Screenshot_20260210_214653_System_UI.png" width="250"/>
+</p>
+
+<p align="center">
+  <img src="https://pub-0548ab57b95d46879446457637ed6426.r2.dev/2026-02-10_187990bytes_Screenshot_20260210_215001_Telephoto.png" width="250"/>
+  <img src="https://pub-0548ab57b95d46879446457637ed6426.r2.dev/2026-02-10_166398bytes_Screenshot_20260210_214709_Telephoto.png" width="250"/>
+</p>
+>
 
 ---
 
@@ -117,7 +130,6 @@ Smart scanning saves battery and bandwidth. First-time OCR may take some minutes
 
 * Back up photo metadata (for sync tracking & OCR)
 * Save app settings and configuration
-
 
 ---
 
