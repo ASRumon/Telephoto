@@ -5,11 +5,8 @@
 </p>
 
 <p align="center">
-  <b>A lightweight, open-source alternative to Google Photos — powered by Telegram.</b>
-</p>
-
-<p align="center">
-  Unlimited photo backups • No subscriptions • Your data, your control
+  A lightweight, privacy-first alternative to Google Photos — powered by Telegram.  
+  Unlimited backups • Zero subscriptions • Your data, your control
 </p>
 
 <p align="center">
@@ -27,31 +24,28 @@
 
 ## 📸 What is Telephoto?
 
-**Telephoto** is a simple and privacy-friendly Android app that backs up your photos to **Telegram** using a bot you control.
+**Telephoto** is a simple, privacy-focused Android app that backs up your photos to **Telegram** using a bot you control.
 
-Instead of relying on traditional cloud providers, your images are sent directly to your own Telegram chat — giving you effectively unlimited storage, fast access, and full ownership of your data.
+Unlike traditional cloud services, your images go directly to your own Telegram chat — giving you unlimited storage, fast access, and full ownership of your data.
 
-Telephoto also includes **Optical OCR (Text Recognition)**, allowing the app to detect text inside images and help you quickly find photos using searchable text.
+Key capabilities include:
 
-This version is **rebuilt using Flutter & Dart**, offering better stability, smoother performance, and fewer bugs compared to earlier releases.
-
+* **Offline OCR / Text Recognition** — find photos by text in 100+ languages
+* **Smart sync** — only uploads new or missing photos
+* **High-resolution backups** — supports images up to 10 MB each
+* **Folder selection** — choose which folders to back up or exclude
+* **Parallel OCR** — faster batch processing
+* **Custom Telegram bot** — only you can access your files
 ---
 
-## 🚀 Features
+## 🚀 What’s New in the Latest Version
 
-* 🔁 **Unlimited backups via Telegram**
-* 📸 **Supports photos up to 10 MB per image**
-* 🤖 Uses your **Telegram bot & chat ID**
-* 📁 **Backup device storage with smart folder exclusion**
-* 🧠 **Smart sync** — uploads only new or missing photos
-* 🔍 **Optical OCR (Text Recognition)**
-
-  * Detects text inside images
-  * Allows searching images using recognized text
-  * Improves image discoverability and organization
-* 💾 Backup **app database & settings**
-* ⚡ Faster and more stable (Flutter + Dart)
-* 🪶 Lightweight and battery-friendly
+* **Auto Light & Dark Theme** — follows your system theme automatically
+* **Improved OCR** — sharper recognition and better accuracy
+* **Optional included folders** — scan only selected folders
+* **Per-image re-OCR** — update OCR results for specific photos
+* **Rotate images before backup** — handle orientation easily
+* **UI fixes** — smoother experience when searching photos
 
 ---
 
@@ -66,20 +60,7 @@ This version is **rebuilt using Flutter & Dart**, offering better stability, smo
 <p align="center">
   <img src="https://pub-0548ab57b95d46879446457637ed6426.r2.dev/2026-02-10_1495890bytes_Screenshot_20260210_214849_Telephoto.png" width="250"/>
   <img src="https://pub-0548ab57b95d46879446457637ed6426.r2.dev/2026-02-10_936996bytes_Screenshot_20260210_214935_Telephoto.png" width="250"/>
-  <img src="https://pub-0548ab57b95d46879446457637ed6426.r2.dev/2026-02-10_2717783bytes_Screenshot_20260210_214840_Telephoto.png" width="250"/>
 </p>
-
-<p align="center">
-  <img src="https://pub-0548ab57b95d46879446457637ed6426.r2.dev/2026-02-10_180130bytes_Screenshot_20260210_214724_Telephoto.png" width="250"/>
-  <img src="https://pub-0548ab57b95d46879446457637ed6426.r2.dev/2026-02-10_1409141bytes_Screenshot_20260210_214659_Telephoto.png" width="250"/>
-  <img src="https://pub-0548ab57b95d46879446457637ed6426.r2.dev/2026-02-10_152801bytes_Screenshot_20260210_214653_System_UI.png" width="250"/>
-</p>
-
-<p align="center">
-  <img src="https://pub-0548ab57b95d46879446457637ed6426.r2.dev/2026-02-10_187990bytes_Screenshot_20260210_215001_Telephoto.png" width="250"/>
-  <img src="https://pub-0548ab57b95d46879446457637ed6426.r2.dev/2026-02-10_166398bytes_Screenshot_20260210_214709_Telephoto.png" width="250"/>
-</p>
-
 
 ---
 
@@ -87,107 +68,69 @@ This version is **rebuilt using Flutter & Dart**, offering better stability, smo
 
 ### 1️⃣ Install the App
 
-Install the APK on your Android device via the **Download** link above.
+Install the APK on your Android device using the **Download** button above.
 
 ---
 
-## 🔐 Required Permissions
+### 2️⃣ Telegram Bot Setup
 
-🛑 **Telephoto does not auto-request permissions.**
-You must grant them manually after installation.
-
-### Required
-
-* 📂 **Storage / Files Access** (Required)
-
-> ❗ Photos & Videos permission is **NOT required**.
-
-### How to grant storage permission
-
-```
-Settings > Apps > Telephoto > Permissions
-Enable "Files and media" or "Allow access to all files"
-```
-
-Without storage access, the app cannot read or back up your photos or perform OCR indexing.
-
----
-
-## ⚙️ App Setup
-
-Open the **Settings** tab and enter:
-
-* 🤖 **Telegram Bot API Key**
-* 👤 **Telegram Chat ID**
-* 🚫 **Excluded Folders** (e.g., `Android,Telegram,WhatsApp`)
-
-> ℹ️ The app automatically scans storage. You only need to specify what to **exclude**.
-> Save settings and **restart the app**.
-
----
-
-## 🔄 Backup & Sync
-
-You can choose between:
-
-* **Manual Backup** – Upload everything
-* **Sync Mode** – Upload only new or missing photos
-
-On first launch, allow some time for scanning, indexing, and OCR processing.
-
----
-
-## 🔍 Searching Images with OCR
-
-Telephoto can automatically recognize text inside images.
-
-You can:
-
-* Search screenshots, documents, or photos containing text
-* Quickly find images using keywords from recognized text
-* Improve organization without manual tagging
-
-OCR processing happens locally and integrates with the app’s image search system.
-
----
-
-## 🤖 Telegram Bot Setup
-
-1. Open **@BotFather** on Telegram
-2. Create a new bot
-3. Copy the **Bot API Token**
-4. Get your **Chat ID** using @Check_Telegram_IDBot
+1. Message **@BotFather** and create a new bot
+2. Copy the **Bot API Token**
+3. Start a chat with your bot (`/start`)
+4. Retrieve your **Chat ID** using **@Check_Telegram_IDBot**
 5. Paste both values into the app settings
 
 ---
 
-## 📂 Backup & Restore Data
+### 3️⃣ Required Permissions
 
-Telephoto allows you to **back up and restore** important app data:
+🛑 Telephoto does **not** auto-request permissions. You must grant them manually:
 
-* 📄 **Photo metadata database** (used for sync tracking and OCR indexing)
-* ⚙️ **App settings & configuration**
+**Storage / Files Access** is required — photos & videos permission is not.
 
-Backup files are stored in the **Downloads** folder on your device and can later be restored inside the app.
+**Grant permission:**
+
+```
+Settings > Apps > Special app access > All files access
+```
+
+
+### 4️⃣ Backup & Sync Options
+
+* **Manual Backup** — upload everything immediately
+* **Sync Mode** — upload only new or missing photos
+
+Smart scanning saves battery and bandwidth. First-time OCR may take some minutes depending on image content.
+
+---
+
+### 5️⃣ Searching Photos with OCR
+
+* Automatically detect text inside images
+* Search screenshots, documents, and photos containing text
+* Offline, multi-language support (100+ languages)
+* Re-run OCR on specific images when needed
+
+---
+
+### 6️⃣ Backup & Restore App Data
+
+* Back up photo metadata (for sync tracking & OCR)
+* Save app settings and configuration
+
 
 ---
 
 ## 🛠️ Tech Stack
 
-* **Flutter**
-* **Dart**
+* Flutter & Dart
 * Telegram Bot API
-* On-device OCR text recognition
-
----
-
-## 📄 License
-
-MIT License
+* On-device OCR (Tesseract)
 
 ---
 
 <p align="center">
   🌐 <a href="https://info.asrumon.workers.dev/">Website</a> • 💬 <a href="https://t.me/Randomrumon">Telegram</a> • 📥 <a href="https://github.com/ASRumon/Telephoto/releases/latest">Download APK</a>
 </p>
+
 
