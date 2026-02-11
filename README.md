@@ -33,8 +33,9 @@ Key capabilities include:
 * **Offline OCR / Text Recognition** — find photos by text in 100+ languages
 * **Smart sync** — only uploads new or missing photos
 * **High-resolution backups** — supports images up to 10 MB each
-* **Folder selection** — choose which folders to back up or exclude (with optional included folders)
-* **Parallel OCR** — faster batch processing with simultaneous processing
+* **Folder selection** — choose which folders to back up or exclude
+* **Optional included folders** — scan only selected folders you want to include
+* **Parallel OCR** — faster batch processing of multiple images
 * **Custom Telegram bot** — only you can access your files
 * **Thumbnail caching** — faster and smoother image browsing
 * **Quick image actions** — delete, share, download, and download original files
@@ -56,7 +57,7 @@ Key capabilities include:
 * **Advanced Zoom Controls** — double tap to zoom and pinch to zoom functionality
 * **Smart Rotation Algorithm** — better image rotation handling
 * **OCR for Cloud Images** — run OCR on images already uploaded to Telegram
-* **Major Bug Fixes** — 69+ bugs fixed for improved stability and performance
+* **Extensive Bug Fixes** — major stability and performance improvements
 
 ---
 
