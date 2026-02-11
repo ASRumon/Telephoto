@@ -35,7 +35,7 @@ Key capabilities include:
 * **High-resolution backups** — supports images up to 10 MB each
 * **Folder selection** — choose which folders to back up or exclude
 * **Optional included folders** — scan only selected folders you want to include
-* **Parallel OCR** — faster batch processing of multiple images
+* **Parallel OCR** — faster batch processing
 * **Custom Telegram bot** — only you can access your files
 * **Thumbnail caching** — faster and smoother image browsing
 * **Quick image actions** — delete, share, download, and download original files
