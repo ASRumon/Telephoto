@@ -142,7 +142,7 @@ Smart scanning saves battery and bandwidth. First-time OCR may take some minutes
 ---
 <p align="center">
   🌐 <a href="https://info.asrumon.workers.dev/">Website</a> •
-  📢 <a href="https://t.me/telephoto_asrumon">Telegraph Channel</a> •
+  📢 <a href="https://t.me/telephoto_asrumon">Telegram Channel</a> •
   💬 <a href="https://t.me/+Ibqj82NDaLszOTg1">Discussion Group</a> •
   📥 <a href="https://github.com/ASRumon/Telephoto/releases/latest">Download APK</a>
 </p>
