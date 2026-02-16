@@ -34,18 +34,30 @@ Key capabilities include:
 * **Smart sync** — only uploads new or missing photos
 * **High-resolution backups** — supports images up to 10 MB each
 * **Folder selection** — choose which folders to back up or exclude
+* **Optional included folders** — scan only selected folders you want to include
 * **Parallel OCR** — faster batch processing
 * **Custom Telegram bot** — only you can access your files
+* **Thumbnail caching** — faster and smoother image browsing
+* **Quick image actions** — delete, share, download, and download original files
+* **Swipe down to refresh** — in both Local and Cloud tabs
+* **Auto Light & Dark Theme** — automatically adapts to your system theme
+* **Per-image re-OCR** — manually reprocess OCR for individual images
+* **Image rotation** — rotate images directly in preview screen
+* **In-app updates** — get the latest version without leaving the app
+* **In-app OCR model download** — download OCR models directly within the app
+* **Enhanced image viewing** — improved gestures, double tap to zoom, pinch to zoom
+* **OCR for cloud images** — run OCR on images already uploaded to Telegram
+* **Details panel** — quick actions for upload, share, delete, and Telegram operations
 ---
 
-## 🚀 What’s New in the Latest Version
+## 🚀 What's New in the Latest Version (v15.5.0)
 
-* **Auto Light & Dark Theme** — follows your system theme automatically
-* **Improved OCR** — sharper recognition and better accuracy
-* **Optional included folders** — scan only selected folders
-* **Per-image re-OCR** — update OCR results for specific photos
-* **Rotate images before backup** — handle orientation easily
-* **UI fixes** — smoother experience when searching photos
+* **Enhanced Image Viewer** — completely redesigned image viewing experience
+* **Improved Gestures** — all gesture controls fixed and refined
+* **Advanced Zoom Controls** — double tap to zoom and pinch to zoom functionality
+* **Smart Rotation Algorithm** — better image rotation handling
+* **OCR for Cloud Images** — run OCR on images already uploaded to Telegram
+* **Extensive Bug Fixes** — major stability and performance improvements
 
 ---
 
