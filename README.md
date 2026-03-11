@@ -1,7 +1,7 @@
 # Telephoto
 
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/3577aa48-2160-44c1-8687-62fbc3a5cfb1" alt="Telephoto Logo" width="120" />
+  <img src="https://pub-0548ab57b95d46879446457637ed6426.r2.dev/2026-03-10_1642bytes_Asset_3.svg" alt="Telephoto Logo" width="120" />
 </p>
 
 <p align="center">
