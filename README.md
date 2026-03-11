@@ -10,15 +10,23 @@
 </p>
 
 <p align="center">
-  <a href="https://github.com/ASRumon/Telephoto/releases/latest" 
-     style="display:inline-block;padding:12px 24px;background:#2ecc71;color:#fff;font-weight:bold;text-decoration:none;border-radius:8px;">
-    📥 Download Latest APK
+  <a href="https://github.com/ASRumon/Telephoto/releases/latest">
+    <img src="https://img.shields.io/badge/📥_Download-Latest_APK-2ecc71?style=for-the-badge" alt="Download Latest APK" />
   </a>
 </p>
 
 <p align="center">
   🌐 <a href="https://info.asrumon.workers.dev/telephoto">Website</a> • 💬 <a href="https://t.me/telephoto_asrumon">Telegram</a>
 </p>
+
+
+![Latest Release](https://img.shields.io/github/v/release/ASRumon/Telephoto)
+![Stars](https://img.shields.io/github/stars/ASRumon/Telephoto)
+![License](https://img.shields.io/github/license/ASRumon/Telephoto)
+![Downloads](https://img.shields.io/github/downloads/ASRumon/Telephoto/total)
+
+
+
 
 ---
 
@@ -28,52 +36,109 @@
 
 Unlike traditional cloud services, your images go directly to your own Telegram chat — giving you unlimited storage, fast access, and full ownership of your data.
 
-Key capabilities include:
+Key capabilities:
 
-* **Offline OCR / Text Recognition** — find photos by text in 100+ languages
-* **Smart sync** — only uploads new or missing photos
-* **High-resolution backups** — supports images up to 10 MB each
-* **Folder selection** — choose which folders to back up or exclude
-* **Parallel OCR** — faster batch processing
-* **Custom Telegram bot** — only you can access your files
+1. **Custom Telegram bot backup** — your media is stored in your own Telegram chat
+2. **Unlimited cloud-style storage model** — no subscription lock-in
+3. **Manual Backup and Smart Sync** — upload all files or only new/missing ones
+4. **High-resolution uploads** — supports images up to 10 MB each
+5. **Folder include/exclude controls** — choose exactly what gets backed up
+6. **Library overview** — quick summary of your media library
+7. **Infocards in Gallery** — see useful status and media insights at a glance
+8. **Memories card** — reminders from past photos
+9. **Cloud Collection and Cloud Favorite** — organize cloud media more easily
+10. **Collection cloud option** — create/use cloud collections directly in Collection
+11. **Card pinning** — keep important cards at the top
+12. **Cloud preview UI improvements** — added Favorite and Info buttons
+13. **Cloud view options** — grouping, sorting, filtering, grid view, and list view
+14. **Local tab view options** — group, sort, filter, grid view, list view, and tree view
+15. **Grid column control** — adjustable 2 to 6 columns
+16. **Offline OCR (100+ languages)** — search screenshots, documents, and text photos
+17. **Parallel OCR and improved OCR workflow** — faster, cleaner recognition and updates
+18. **Per-image OCR reprocessing** — refresh OCR for selected images when needed
+19. **Image pre-conversion before upload** — improves compatibility and upload reliability
+20. **Improved upload/delete/OCR pipeline** — better overall media processing flow
+21. **Improved background operation** — more reliable long-running tasks
+22. **Improved delayed cloud deletion algorithm** — safer cloud cleanup handling
+23. **Auto migration for local image collections** — smoother upgrades
+24. **Encrypted database backup and restore** — secure metadata/settings portability
+25. **Database backup reminder card** — prompts you to protect app data
+26. **Use Telephoto as a viewer from other apps** — open and view images directly
 ---
 
 ## 🚀 What’s New in the Latest Version
 
-* **Auto Light & Dark Theme** — follows your system theme automatically
-* **Improved OCR** — sharper recognition and better accuracy
-* **Optional included folders** — scan only selected folders
-* **Per-image re-OCR** — update OCR results for specific photos
-* **Rotate images before backup** — handle orientation easily
-* **UI fixes** — smoother experience when searching photos
+* **Infocards in the Gallery screen**
+* **New Backup card** — reminds you to back up your database
+* **Library overview**
+* **New Memories card** — reminds you of past photos
+* **Card pinning**
+* **New Cloud Collection**
+* **New Cloud Favorite**
+* **Improved upload / delete / OCR workflow**
+* **Improved background operation**
+* **Cloud preview UI updated** — added Favorite and Info buttons
+* **Auto migration for local image collections**
+* **Improved delayed algorithm for deleting cloud images**
+* **New cloud collection option inside Collection**
+* **Encrypted database backup and restore**
+* **Use the app as a photo viewer from other apps**
+* **New Cloud View options** — grouping, sorting, grid view, list view, and filtering
+* **New Local Tab view options** — group, sort, filter, grid view, list view, and tree view
+* **Grid column control** — change columns from 2 to 6
+* **Pre-conversion of images before upload**
+
+> ⚠️ **Major update notice:** Some previous data may not be fully detected or restorable after upgrading.
 
 ---
 
 ## 🖼️ Screenshots
 
 <p align="center">
-  <img src="https://pub-0548ab57b95d46879446457637ed6426.r2.dev/2026-02-10_204557bytes_Screenshot_20260210_214717_Telephoto.png" width="250"/>
-  <img src="https://pub-0548ab57b95d46879446457637ed6426.r2.dev/2026-02-10_629570bytes_Screenshot_20260210_214916_Telephoto.png" width="250"/>
-  <img src="https://pub-0548ab57b95d46879446457637ed6426.r2.dev/2026-02-10_1189760bytes_Screenshot_20260210_214901_Telephoto.png" width="250"/>
+  <img src="https://pub-0548ab57b95d46879446457637ed6426.r2.dev/2026-03-10_1659687bytes_Screenshot_20260310_131701_Telephoto.png" width="250"/>
+  <img src="https://pub-0548ab57b95d46879446457637ed6426.r2.dev/2026-03-10_1661637bytes_Screenshot_20260310_131709_Telephoto.png" width="250"/>
+  <img src="https://pub-0548ab57b95d46879446457637ed6426.r2.dev/2026-03-10_1646585bytes_Screenshot_20260310_131714_Telephoto.png" width="250"/>
 </p>
 
 <p align="center">
-  <img src="https://pub-0548ab57b95d46879446457637ed6426.r2.dev/2026-02-10_1495890bytes_Screenshot_20260210_214849_Telephoto.png" width="250"/>
-  <img src="https://pub-0548ab57b95d46879446457637ed6426.r2.dev/2026-02-10_936996bytes_Screenshot_20260210_214935_Telephoto.png" width="250"/>
-  <img src="https://pub-0548ab57b95d46879446457637ed6426.r2.dev/2026-02-10_2717783bytes_Screenshot_20260210_214840_Telephoto.png" width="250"/>
+  <img src="https://pub-0548ab57b95d46879446457637ed6426.r2.dev/2026-03-10_1670775bytes_Screenshot_20260310_131716_Telephoto.png" width="250"/>
+  <img src="https://pub-0548ab57b95d46879446457637ed6426.r2.dev/2026-03-10_1917594bytes_Screenshot_20260310_131719_Telephoto.png" width="250"/>
+  <img src="https://pub-0548ab57b95d46879446457637ed6426.r2.dev/2026-03-10_2090587bytes_Screenshot_20260310_131739_Telephoto.png" width="250"/>
 </p>
 
 <p align="center">
-  <img src="https://pub-0548ab57b95d46879446457637ed6426.r2.dev/2026-02-10_180130bytes_Screenshot_20260210_214724_Telephoto.png" width="250"/>
-  <img src="https://pub-0548ab57b95d46879446457637ed6426.r2.dev/2026-02-10_1409141bytes_Screenshot_20260210_214659_Telephoto.png" width="250"/>
-  <img src="https://pub-0548ab57b95d46879446457637ed6426.r2.dev/2026-02-10_152801bytes_Screenshot_20260210_214653_System_UI.png" width="250"/>
+  <img src="https://pub-0548ab57b95d46879446457637ed6426.r2.dev/2026-03-10_1140039bytes_Screenshot_20260310_131809_Telephoto.png" width="250"/>
+  <img src="https://pub-0548ab57b95d46879446457637ed6426.r2.dev/2026-03-10_625862bytes_Screenshot_20260310_131816_Telephoto.png" width="250"/>
+  <img src="https://pub-0548ab57b95d46879446457637ed6426.r2.dev/2026-03-10_1658630bytes_Screenshot_20260310_131831_Telephoto.png" width="250"/>
 </p>
 
 <p align="center">
-  <img src="https://pub-0548ab57b95d46879446457637ed6426.r2.dev/2026-02-10_187990bytes_Screenshot_20260210_215001_Telephoto.png" width="250"/>
-  <img src="https://pub-0548ab57b95d46879446457637ed6426.r2.dev/2026-02-10_166398bytes_Screenshot_20260210_214709_Telephoto.png" width="250"/>
+    <img src="https://pub-0548ab57b95d46879446457637ed6426.r2.dev/2026-03-10_2360704bytes_Screenshot_20260310_131925_Telephoto.png" width="250"/>
+  <img src="https://pub-0548ab57b95d46879446457637ed6426.r2.dev/2026-03-10_1603509bytes_Screenshot_20260310_131932_Telephoto.png" width="250"/>  <img src="https://pub-0548ab57b95d46879446457637ed6426.r2.dev/2026-03-10_291766bytes_Screenshot_20260310_132004_Telephoto.png" width="250"/>
 </p>
->
+
+<p align="center">
+
+  <img src="https://pub-0548ab57b95d46879446457637ed6426.r2.dev/2026-03-10_993544bytes_Screenshot_20260310_132040_Telephoto.png" width="250"/>
+  <img src="https://pub-0548ab57b95d46879446457637ed6426.r2.dev/2026-03-10_798706bytes_Screenshot_20260310_132044_Telephoto.png" width="250"/>  <img src="https://pub-0548ab57b95d46879446457637ed6426.r2.dev/2026-03-10_460577bytes_Screenshot_20260310_132048_Telephoto.png" width="250"/>
+</p>
+
+<p align="center">
+
+  <img src="https://pub-0548ab57b95d46879446457637ed6426.r2.dev/2026-03-10_704794bytes_Screenshot_20260310_132110_Telephoto.png" width="250"/>
+  <img src="https://pub-0548ab57b95d46879446457637ed6426.r2.dev/2026-03-10_226709bytes_Screenshot_20260310_132121_Telephoto.png" width="250"/>  <img src="https://pub-0548ab57b95d46879446457637ed6426.r2.dev/2026-03-10_223222bytes_Screenshot_20260310_132144_Telephoto.png" width="250"/>
+</p>
+
+<p align="center">
+
+  <img src="https://pub-0548ab57b95d46879446457637ed6426.r2.dev/2026-03-10_198429bytes_Screenshot_20260310_132152_Telephoto.png" width="250"/>
+  <img src="https://pub-0548ab57b95d46879446457637ed6426.r2.dev/2026-03-10_555371bytes_Screenshot_20260310_133410_Telephoto.png" width="250"/>
+
+  <img src="https://pub-0548ab57b95d46879446457637ed6426.r2.dev/2026-03-10_474495bytes_Screenshot_20260310_133441_Telephoto.png" width="250"/>
+
+</p>
+
+
 
 ---
 
@@ -146,5 +211,3 @@ Smart scanning saves battery and bandwidth. First-time OCR may take some minutes
   💬 <a href="https://t.me/+Ibqj82NDaLszOTg1">Discussion Group</a> •
   📥 <a href="https://github.com/ASRumon/Telephoto/releases/latest">Download APK</a>
 </p>
-
-
