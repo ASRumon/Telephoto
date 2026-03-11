@@ -1,34 +1,37 @@
 # Telephoto
 
 <p align="center">
-  <img src="https://pub-0548ab57b95d46879446457637ed6426.r2.dev/2026-03-10_1642bytes_Asset_3.svg" alt="Telephoto Logo" width="120" />
+  <img src="https://pub-0548ab57b95d46879446457637ed6426.r2.dev/2026-03-10_1642bytes_Asset_3.svg" alt="Telephoto Logo" width="120"/>
 </p>
 
+<h3 align="center">
+A lightweight, privacy-first alternative to Google Photos — powered by Telegram
+</h3>
+
 <p align="center">
-  A lightweight, privacy-first alternative to Google Photos — powered by Telegram.  
-  Unlimited backups • Zero subscriptions • Your data, your control
+Unlimited backups • No subscriptions • Your data, your control
 </p>
 
 <p align="center">
   <a href="https://github.com/ASRumon/Telephoto/releases/latest">
-    <img src="https://img.shields.io/badge/📥_Download-Latest_APK-2ecc71?style=for-the-badge" alt="Download Latest APK" />
+    <img src="https://img.shields.io/badge/Download-Latest_APK-2ecc71?style=for-the-badge&logo=android" alt="Download Latest APK"/>
   </a>
 </p>
 
 <p align="center">
-  🌐 <a href="https://info.asrumon.workers.dev/telephoto">Website</a> • 💬 <a href="https://t.me/telephoto_asrumon">Telegram</a>
+  🌐 <a href="https://info.asrumon.workers.dev/telephoto">Website</a> • 
+  💬 <a href="https://t.me/telephoto_asrumon">Telegram</a>
 </p>
 
-
-![Latest Release](https://img.shields.io/github/v/release/ASRumon/Telephoto)
-![Stars](https://img.shields.io/github/stars/ASRumon/Telephoto)
-![License](https://img.shields.io/github/license/ASRumon/Telephoto)
-![Downloads](https://img.shields.io/github/downloads/ASRumon/Telephoto/total)
-
-
-
+<p align="center">
+  <img src="https://img.shields.io/github/v/release/ASRumon/Telephoto?label=Latest%20Release"/>
+  <img src="https://img.shields.io/github/stars/ASRumon/Telephoto?label=Stars"/>
+  <img src="https://img.shields.io/github/downloads/ASRumon/Telephoto/total?label=Downloads"/>
+  <img src="https://img.shields.io/github/license/ASRumon/Telephoto?label=License"/>
+</p>
 
 ---
+
 
 ## 📸 What is Telephoto?
 
