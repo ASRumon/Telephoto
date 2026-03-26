@@ -1,0 +1,61 @@
+name: tele_photos_flutter
+description: Telephoto-The Sovereign Photo Cloud
+publish_to: "none"
+version: 36.1.1+1
+environment:
+  sdk: ">=3.0.0 <4.0.0"
+
+dependencies:
+  flutter:
+    sdk: flutter
+  cupertino_icons: ^1.0.5
+  http: ^1.1.0
+  dio: ^5.4.0
+  path: ^1.9.0
+  path_provider: ^2.0.15
+  permission_handler: ^11.0.0
+  shared_preferences: ^2.2.0
+  image: ^4.0.20
+  flutter_foreground_task: ^6.0.0
+  flutter_local_notifications: ^19.5.0
+  share_plus: ^7.2.2
+  flutter_launcher_icons: ^0.14.4
+  storage_info: ^1.0.0
+  disk_space_plus: ^0.2.6
+  sqflite: ^2.4.2
+  extended_image: ^8.2.1
+  crypto: ^3.0.3
+  cryptography: ^2.7.0
+  file_picker: ^8.0.3
+  flutter_native_splash: ^2.4.7
+  url_launcher: ^6.3.2
+  package_info_plus: ^9.0.0
+  flutter_tesseract_ocr: ^0.4.22
+  wakelock_plus: ^1.2.5
+  vector_math: ^2.1.4
+  open_filex: ^4.3.2
+  heif_converter: ^1.0.1
+  google_mlkit_barcode_scanning: ^0.14.1
+  wifi_iot: ^0.3.19+2
+flutter_launcher_icons:
+  android: true
+  ios: true
+  remove_alpha_ios: true
+  image_path: "assets/icon.png"
+  adaptive_icon_background: "#0B1F3A"
+  adaptive_icon_foreground: "assets/icon.png"
+  min_sdk_android: 21
+
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  flutter_lints: ^2.0.0
+
+flutter:
+  uses-material-design: true
+  assets:
+    - assets/icon.png
+    - assets/tessdata_config.json
+    - assets/OCR.csv
+ 
