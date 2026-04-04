@@ -67,9 +67,26 @@ Key capabilities:
 24. **Encrypted database backup and restore** — secure metadata/settings portability
 25. **Database backup reminder card** — prompts you to protect app data
 26. **Use Telephoto as a viewer from other apps** — open and view images directly
+27. **Video Backup** — back up videos to your Telegram cloud workflow
+28. **Video Player** — play videos directly inside Telephoto
+29. **Reel Mode** — short-video style continuous viewing experience
+30. **Video Player Gesture Control** — quick gestures for seek, volume, and brightness
+31. **Video Favorites** — mark important videos for fast access
+32. **Video Collections** — organize videos into custom collections
 ---
 
-## 🚀 What’s New in the Latest Version
+## 🚀 What’s New in Version 40
+
+### 🎬 Highlight Features in v40
+
+* **Video Backup**
+* **Video Player**
+* **Reel Mode**
+* **Video Player Gesture Control**
+* **Video Favorites**
+* **Video Collections**
+
+### Other Recent Improvements
 
 * **Infocards in the Gallery screen**
 * **New Backup card** — reminds you to back up your database
