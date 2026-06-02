@@ -32,202 +32,210 @@ Unlimited backups • No subscriptions • Your data, your control
 
 ---
 
-
 ## 📸 What is Telephoto?
 
-**Telephoto** is a simple, privacy-focused Android app that backs up your photos to **Telegram** using a bot you control.
+**Telephoto** is a simple, privacy-focused Android app that backs up your photos and videos to **Telegram** using a bot you control.
 
-Unlike traditional cloud services, your images go directly to your own Telegram chat — giving you unlimited storage, fast access, and full ownership of your data.
+Unlike traditional cloud services, your media goes directly to your own Telegram chat — giving you unlimited storage, fast access, and full ownership of your data.
 
-Key capabilities:
-
-1. **Custom Telegram bot backup** — your media is stored in your own Telegram chat
-2. **Unlimited cloud-style storage model** — no subscription lock-in
-3. **Manual Backup and Smart Sync** — upload all files or only new/missing ones
-4. **High-resolution uploads** — supports images up to 10 MB each
-5. **Folder include/exclude controls** — choose exactly what gets backed up
-6. **Library overview** — quick summary of your media library
-7. **Infocards in Gallery** — see useful status and media insights at a glance
-8. **Memories card** — reminders from past photos
-9. **Cloud Collection and Cloud Favorite** — organize cloud media more easily
-10. **Collection cloud option** — create/use cloud collections directly in Collection
-11. **Card pinning** — keep important cards at the top
-12. **Cloud preview UI improvements** — added Favorite and Info buttons
-13. **Cloud view options** — grouping, sorting, filtering, grid view, and list view
-14. **Local tab view options** — group, sort, filter, grid view, list view, and tree view
-15. **Grid column control** — adjustable 2 to 6 columns
-16. **Offline OCR (100+ languages)** — search screenshots, documents, and text photos
-17. **Parallel OCR and improved OCR workflow** — faster, cleaner recognition and updates
-18. **Per-image OCR reprocessing** — refresh OCR for selected images when needed
-19. **Image pre-conversion before upload** — improves compatibility and upload reliability
-20. **Improved upload/delete/OCR pipeline** — better overall media processing flow
-21. **Improved background operation** — more reliable long-running tasks
-22. **Improved delayed cloud deletion algorithm** — safer cloud cleanup handling
-23. **Auto migration for local image collections** — smoother upgrades
-24. **Encrypted database backup and restore** — secure metadata/settings portability
-25. **Database backup reminder card** — prompts you to protect app data
-26. **Use Telephoto as a viewer from other apps** — open and view images directly
-27. **Video Backup** — back up videos to your Telegram cloud workflow
-28. **Video Player** — play videos directly inside Telephoto
-29. **Reel Mode** — short-video style continuous viewing experience
-30. **Video Player Gesture Control** — quick gestures for seek, volume, and brightness
-31. **Video Favorites** — mark important videos for fast access
-32. **Video Collections** — organize videos into custom collections
 ---
 
-## 🚀 What’s New in Version 40
+## ✨ Features
 
-### 🎬 Highlight Features in v40
+### 📤 Backup & Storage
+- **Custom Telegram bot backup** — your media is stored in your own Telegram chat
+- **Unlimited cloud-style storage** — no subscription lock-in
+- **Video Backup** — back up videos to your Telegram cloud
+- **Manual Backup and Smart Sync** — upload all files or only new/missing ones
+- **High-resolution uploads** — supports images up to 10 MB each
+- **Image pre-conversion before upload** — improves compatibility and upload reliability
+- **Folder include/exclude controls** — choose exactly what gets backed up
 
-* **Video Backup**
-* **Video Player**
-* **Reel Mode**
-* **Video Player Gesture Control**
-* **Video Favorites**
-* **Video Collections**
+### 🎮 Media Viewing & Organization
+- **Video Player** — play videos directly inside Telephoto
+- **Reel Mode** — short-video style continuous viewing experience
+- **Video Player Gesture Control** — quick gestures for seek, volume, and brightness
+- **Library overview** — quick summary of your media library
+- **Infocards in Gallery** — see useful status and media insights at a glance
+- **Memories card** — reminders from past photos
+- **Cloud Collection and Cloud Favorite** — organize cloud media more easily
+- **Collection cloud option** — create/use cloud collections directly in Collection
+- **Video Favorites** — mark important videos for fast access
+- **Video Collections** — organize videos into custom collections
+- **Card pinning** — keep important cards at the top
+- **Cloud preview UI** — added Favorite and Info buttons
 
-### Other Recent Improvements
+### 👁️ View Options
+- **Cloud view options** — grouping, sorting, filtering, grid view, and list view
+- **Local tab view options** — group, sort, filter, grid view, list view, and tree view
+- **Grid column control** — adjustable 2 to 6 columns
 
-* **Infocards in the Gallery screen**
-* **New Backup card** — reminds you to back up your database
-* **Library overview**
-* **New Memories card** — reminds you of past photos
-* **Card pinning**
-* **New Cloud Collection**
-* **New Cloud Favorite**
-* **Improved upload / delete / OCR workflow**
-* **Improved background operation**
-* **Cloud preview UI updated** — added Favorite and Info buttons
-* **Auto migration for local image collections**
-* **Improved delayed algorithm for deleting cloud images**
-* **New cloud collection option inside Collection**
-* **Encrypted database backup and restore**
-* **Use the app as a photo viewer from other apps**
-* **New Cloud View options** — grouping, sorting, grid view, list view, and filtering
-* **New Local Tab view options** — group, sort, filter, grid view, list view, and tree view
-* **Grid column control** — change columns from 2 to 6
-* **Pre-conversion of images before upload**
+### 🔍 OCR & Search
+- **Offline OCR (100+ languages)** — search screenshots, documents, and text photos
+- **Parallel OCR and improved OCR workflow** — faster, cleaner recognition and updates
+- **Per-image OCR reprocessing** — refresh OCR for selected images when needed
 
-> ⚠️ **Major update notice:** Some previous data may not be fully detected or restorable after upgrading.
+### ⚙️ System & Reliability
+- **Improved upload/delete/OCR pipeline** — better overall media processing flow
+- **Improved background operation** — more reliable long-running tasks
+- **Improved delayed cloud deletion algorithm** — safer cloud cleanup handling
+- **Auto migration for local image collections** — smoother upgrades
+- **Encrypted database backup and restore** — secure metadata/settings portability
+- **Database backup reminder card** — prompts you to protect app data
+- **Use Telephoto as a viewer from other apps** — open and view images directly
+
+---
+
+## 🆕 What's New in Version 60
+
+### 🔄 Cross-Device Synchronization
+Sync your media seamlessly across all your devices — changes made on one device reflect everywhere
+
+### 📂 Optimized Collection Tab
+Faster, smoother, and more intuitive collection management
+
+### 📝 Rich Captions
+- **Image Captions** — add descriptive text to your photos
+- **Markdown Support** — format your captions with bold, italic, links, and more
+- **Tags & Hashtags** — organize and discover photos with #tags
+- **Common Caption** — apply the same caption to multiple images at once
+
+### 🔍 Enhanced Search
+New optimized search algorithm for faster and more accurate results
+
+### 🖼️ Improved Media Viewing
+- **Optimized Image Viewer** — smoother zooming and navigation
+- **QR Code Scanner** — scan QR codes directly from images
+- **Revamped UI** — fresh new look for image preview and cloud image preview
+- **Thumbnail Wheel** — quickly scrub through images with an intuitive thumbnail slider
+
+### ⚡ Quality of Life
+- **Tap to Scroll to Top** — quickly return to the top of any list with a single tap
+- **Recent Favorites** — quickly access your most recently favorited items
+- **Sync ID Implementation** — improved backend tracking for reliable synchronization
+
+### 📱 Home Screen Widgets (Android 16+)
+Official widget support — view your memories and recent photos right from your home screen
+
+---
+
+> **Version 60** brings powerful cross-device sync, rich Markdown captions with hashtags, a completely revamped UI, and official Android 16+ widget support. Update today to experience the future of privacy-first cloud backup.
 
 ---
 
 ## 🖼️ Screenshots
 
 <p align="center">
-  <img src="https://pub-0548ab57b95d46879446457637ed6426.r2.dev/2026-03-10_1659687bytes_Screenshot_20260310_131701_Telephoto.png" width="250"/>
-  <img src="https://pub-0548ab57b95d46879446457637ed6426.r2.dev/2026-03-10_1661637bytes_Screenshot_20260310_131709_Telephoto.png" width="250"/>
-  <img src="https://pub-0548ab57b95d46879446457637ed6426.r2.dev/2026-03-10_1646585bytes_Screenshot_20260310_131714_Telephoto.png" width="250"/>
+  <img src="https://pub-0548ab57b95d46879446457637ed6426.r2.dev/2026-06-01_1308653bytes_Screenshot_20260601_234143_Telephoto.png" width="200"/>
+  <img src="https://pub-0548ab57b95d46879446457637ed6426.r2.dev/2026-06-01_1305816bytes_Screenshot_20260601_234146_Telephoto.png" width="200"/>
+  <img src="https://pub-0548ab57b95d46879446457637ed6426.r2.dev/2026-06-01_1308693bytes_Screenshot_20260601_234148_Telephoto.png" width="200"/>
 </p>
 
 <p align="center">
-  <img src="https://pub-0548ab57b95d46879446457637ed6426.r2.dev/2026-03-10_1670775bytes_Screenshot_20260310_131716_Telephoto.png" width="250"/>
-  <img src="https://pub-0548ab57b95d46879446457637ed6426.r2.dev/2026-03-10_1917594bytes_Screenshot_20260310_131719_Telephoto.png" width="250"/>
-  <img src="https://pub-0548ab57b95d46879446457637ed6426.r2.dev/2026-03-10_2090587bytes_Screenshot_20260310_131739_Telephoto.png" width="250"/>
+  <img src="https://pub-0548ab57b95d46879446457637ed6426.r2.dev/2026-06-01_1544200bytes_Screenshot_20260601_234151_Telephoto.png" width="200"/>
+  <img src="https://pub-0548ab57b95d46879446457637ed6426.r2.dev/2026-06-01_1464792bytes_Screenshot_20260601_234153_Telephoto.png" width="200"/>
+  <img src="https://pub-0548ab57b95d46879446457637ed6426.r2.dev/2026-06-01_2816325bytes_Screenshot_20260601_234157_Telephoto.png" width="200"/>
 </p>
 
 <p align="center">
-  <img src="https://pub-0548ab57b95d46879446457637ed6426.r2.dev/2026-03-10_1140039bytes_Screenshot_20260310_131809_Telephoto.png" width="250"/>
-  <img src="https://pub-0548ab57b95d46879446457637ed6426.r2.dev/2026-03-10_625862bytes_Screenshot_20260310_131816_Telephoto.png" width="250"/>
-  <img src="https://pub-0548ab57b95d46879446457637ed6426.r2.dev/2026-03-10_1658630bytes_Screenshot_20260310_131831_Telephoto.png" width="250"/>
+  <img src="https://pub-0548ab57b95d46879446457637ed6426.r2.dev/2026-06-01_2532020bytes_Screenshot_20260601_234209_Telephoto.png" width="200"/>
+  <img src="https://pub-0548ab57b95d46879446457637ed6426.r2.dev/2026-06-01_216662bytes_Screenshot_20260601_234213_Telephoto.png" width="200"/>
+  <img src="https://pub-0548ab57b95d46879446457637ed6426.r2.dev/2026-06-01_1300535bytes_Screenshot_20260601_234141_Telephoto.png" width="200"/>
 </p>
 
 <p align="center">
-    <img src="https://pub-0548ab57b95d46879446457637ed6426.r2.dev/2026-03-10_2360704bytes_Screenshot_20260310_131925_Telephoto.png" width="250"/>
-  <img src="https://pub-0548ab57b95d46879446457637ed6426.r2.dev/2026-03-10_1603509bytes_Screenshot_20260310_131932_Telephoto.png" width="250"/>  <img src="https://pub-0548ab57b95d46879446457637ed6426.r2.dev/2026-03-10_291766bytes_Screenshot_20260310_132004_Telephoto.png" width="250"/>
+  <img src="https://pub-0548ab57b95d46879446457637ed6426.r2.dev/2026-06-01_85267bytes_Screenshot_20260601_234543_Telephoto.png" width="200"/>
+  <img src="https://pub-0548ab57b95d46879446457637ed6426.r2.dev/2026-06-01_207822bytes_Screenshot_20260601_234555_Telephoto.png" width="200"/>
+  <img src="https://pub-0548ab57b95d46879446457637ed6426.r2.dev/2026-06-01_263771bytes_Screenshot_20260601_234600_Telephoto.png" width="200"/>
 </p>
 
 <p align="center">
-
-  <img src="https://pub-0548ab57b95d46879446457637ed6426.r2.dev/2026-03-10_993544bytes_Screenshot_20260310_132040_Telephoto.png" width="250"/>
-  <img src="https://pub-0548ab57b95d46879446457637ed6426.r2.dev/2026-03-10_798706bytes_Screenshot_20260310_132044_Telephoto.png" width="250"/>  <img src="https://pub-0548ab57b95d46879446457637ed6426.r2.dev/2026-03-10_460577bytes_Screenshot_20260310_132048_Telephoto.png" width="250"/>
+  <img src="https://pub-0548ab57b95d46879446457637ed6426.r2.dev/2026-06-01_2513370bytes_Screenshot_20260601_234647_Telephoto.png" width="200"/>
+  <img src="https://pub-0548ab57b95d46879446457637ed6426.r2.dev/2026-06-01_332472bytes_Screenshot_20260601_234926_Telephoto.png" width="200"/>
+  <img src="https://pub-0548ab57b95d46879446457637ed6426.r2.dev/2026-06-01_2497688bytes_Screenshot_20260601_235010_Telephoto.png" width="200"/>
 </p>
 
 <p align="center">
-
-  <img src="https://pub-0548ab57b95d46879446457637ed6426.r2.dev/2026-03-10_704794bytes_Screenshot_20260310_132110_Telephoto.png" width="250"/>
-  <img src="https://pub-0548ab57b95d46879446457637ed6426.r2.dev/2026-03-10_226709bytes_Screenshot_20260310_132121_Telephoto.png" width="250"/>  <img src="https://pub-0548ab57b95d46879446457637ed6426.r2.dev/2026-03-10_223222bytes_Screenshot_20260310_132144_Telephoto.png" width="250"/>
+  <img src="https://pub-0548ab57b95d46879446457637ed6426.r2.dev/2026-06-01_1248113bytes_Screenshot_20260601_235014_Telephoto.png" width="200"/>
+  <img src="https://pub-0548ab57b95d46879446457637ed6426.r2.dev/2026-06-01_453879bytes_Screenshot_20260601_235024_Telephoto.png" width="200"/>
+  <img src="https://pub-0548ab57b95d46879446457637ed6426.r2.dev/2026-06-01_1379663bytes_Screenshot_20260601_235035_Telephoto.png" width="200"/>
 </p>
 
 <p align="center">
-
-  <img src="https://pub-0548ab57b95d46879446457637ed6426.r2.dev/2026-03-10_198429bytes_Screenshot_20260310_132152_Telephoto.png" width="250"/>
-  <img src="https://pub-0548ab57b95d46879446457637ed6426.r2.dev/2026-03-10_555371bytes_Screenshot_20260310_133410_Telephoto.png" width="250"/>
-
-  <img src="https://pub-0548ab57b95d46879446457637ed6426.r2.dev/2026-03-10_474495bytes_Screenshot_20260310_133441_Telephoto.png" width="250"/>
-
+  <img src="https://pub-0548ab57b95d46879446457637ed6426.r2.dev/2026-06-01_1123725bytes_Screenshot_20260601_235040_Telephoto.png" width="200"/>
+  <img src="https://pub-0548ab57b95d46879446457637ed6426.r2.dev/2026-06-01_1175763bytes_Screenshot_20260601_235032_Telephoto.png" width="200"/>
+  <img src="https://pub-0548ab57b95d46879446457637ed6426.r2.dev/2026-06-01_945356bytes_Screenshot_20260601_235046_Telephoto.png" width="200"/>
 </p>
 
+<p align="center">
+  <img src="https://pub-0548ab57b95d46879446457637ed6426.r2.dev/2026-06-01_209066bytes_Screenshot_20260601_235113_Telephoto.png" width="200"/>
+  <img src="https://pub-0548ab57b95d46879446457637ed6426.r2.dev/2026-06-01_612727bytes_Screenshot_20260601_235146_Telephoto.png" width="200"/>
+  <img src="https://pub-0548ab57b95d46879446457637ed6426.r2.dev/2026-06-01_1645467bytes_Screenshot_20260601_235206_Telephoto.png" width="200"/>
+</p>
 
+<p align="center">
+  <img src="https://pub-0548ab57b95d46879446457637ed6426.r2.dev/2026-06-01_2631401bytes_Screenshot_20260601_235229_Telephoto.png" width="200"/>
+  <img src="https://pub-0548ab57b95d46879446457637ed6426.r2.dev/2026-06-01_225763bytes_Screenshot_20260601_235244_Telephoto.png" width="200"/>
+  <img src="https://pub-0548ab57b95d46879446457637ed6426.r2.dev/2026-06-01_272637bytes_Screenshot_20260601_235251_Telephoto.png" width="200"/>
+</p>
 
 ---
 
 ## 📱 Getting Started
 
-### 1️⃣ Install the App
+### 1️⃣ Installation
 
-Install the APK on your Android device using the **Download** button above.
+Download the latest APK and install it on your Android device.
+
+<p align="center">
+  <a href="https://github.com/ASRumon/Telephoto/releases/latest">
+    <img src="https://img.shields.io/badge/Download_Latest_APK-2ecc71?style=for-the-badge&logo=android" alt="Download Latest APK"/>
+  </a>
+</p>
+
+**Latest on GitHub:** 60.0
 
 ---
 
-### 2️⃣ Telegram Bot Setup
+### 2️⃣ The Bot Setup
 
-1. Message **@BotFather** and create a new bot
-2. Copy the **Bot API Token**
-3. Start a chat with your bot (`/start`)
-4. Retrieve your **Chat ID** using **@Check_Telegram_IDBot**
-5. Paste both values into the app settings
+1. Open **@BotFather** and send `/newbot`
+2. After bot creation, copy only the HTTP API token from BotFather reply (format: `123456:ABC-DEF...`)
+3. Open your new bot chat and send `/start`
+4. Open **@Check_Telegram_IDBot** (or @ScanIDBot) and choose which ID you want: **User ID** or **Group ID**
+   - If you choose **User ID**, copy your numeric ID (example: `987654321`) and use it directly in Telephoto
+   - If you choose **Group ID**, first add your created bot to that group and set it as admin, then copy the group ID (usually starts with `-`)
+5. Paste the bot token + selected ID into **Telephoto Settings**
+
+> **What to copy:** Copy only the bot token and one ID value (user ID or group ID). Do not copy bot usernames, labels, or extra reply text.
+
+**Example:**
+- `123456:ABC-DEF...` (bot token)
+- `987654321` (user ID) or `-1001234567890` (group ID)
 
 ---
 
 ### 3️⃣ Required Permissions
 
-🛑 Telephoto does **not** auto-request permissions. You must grant them manually:
-
-**Storage / Files Access** is required — photos & videos permission is not.
-
-**Grant permission:**
+🛑 **Manual Action Required**
 
 ```
-Settings > Apps > Special app access > All files access
+Settings > Apps > Telephoto > Permissions → Enable "Files and media"
 ```
-
-
-### 4️⃣ Backup & Sync Options
-
-* **Manual Backup** — upload everything immediately
-* **Sync Mode** — upload only new or missing photos
-
-Smart scanning saves battery and bandwidth. First-time OCR may take some minutes depending on image content.
-
----
-
-### 5️⃣ Searching Photos with OCR
-
-* Automatically detect text inside images
-* Search screenshots, documents, and photos containing text
-* Offline, multi-language support (100+ languages)
-* Re-run OCR on specific images when needed
-
----
-
-### 6️⃣ Backup & Restore App Data
-
-* Back up photo metadata (for sync tracking & OCR)
-* Save app settings and configuration
-
 ---
 
 ## 🛠️ Tech Stack
 
-* Flutter & Dart
-* Telegram Bot API
-* On-device OCR (Tesseract)
+- Flutter & Dart
+- Telegram Bot API
+- On-device OCR (Tesseract)
 
 ---
+
 <p align="center">
   🌐 <a href="https://info.asrumon.workers.dev/">Website</a> •
   📢 <a href="https://t.me/telephoto_asrumon">Telegram Channel</a> •
   💬 <a href="https://t.me/+Ibqj82NDaLszOTg1">Discussion Group</a> •
   📥 <a href="https://info.asrumon.workers.dev/telephoto/latest.apk">Download APK</a>
 </p>
+
