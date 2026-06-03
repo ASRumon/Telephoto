@@ -42,12 +42,15 @@ Unlike traditional cloud services, your media goes directly to your own Telegram
 
 ## ✨ Features
 
+### AI (upcoming)
+- **AI auto caption** - integrated Gemini chatgpt API to give you context about the image transcription translation and many more.
+
 ### 📤 Backup & Storage
 - **Custom Telegram bot backup** — your media is stored in your own Telegram chat
 - **Unlimited cloud-style storage** — no subscription lock-in
 - **Video Backup** — back up videos to your Telegram cloud
 - **Manual Backup and Smart Sync** — upload all files or only new/missing ones
-- **High-resolution uploads** — supports images up to 10 MB each
+- **High-resolution uploads** — supports images up to 40 MB each
 - **Image pre-conversion before upload** — improves compatibility and upload reliability
 - **Folder include/exclude controls** — choose exactly what gets backed up
 
